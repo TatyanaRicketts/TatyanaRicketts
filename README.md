@@ -2,7 +2,7 @@
 
 Whether I’m exploring space system vulnerabilities or building secure infrastructure, I bring a strong sense of purpose, clarity, and curiosity to every repo I touch.  
 
-I am also a huge fan of anything math-related  
+I am also a huge fan of anything math related  
 
 🔭 **Focus Areas**: Cybersecurity | Space Systems | Network Analysis | Automation  
 🌱 **Always learning something new and applying it**  
